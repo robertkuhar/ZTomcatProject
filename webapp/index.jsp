@@ -6,6 +6,8 @@
   </head>
   <body>
     <h1>ZTomcatProject</h1>
-    <a href="imagemaker.jsp">imagemaker.jsp</a>
+    <a href="imagemaker.jsp">imagemaker.jsp</a><br/>
+    <a href="echo">echo</a><br/>
+    <a href="ctxEnvLookup">ctxEnvLookup</a><br/>
   </body>
 </html>
